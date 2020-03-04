@@ -4,7 +4,7 @@ session_start();
 header('Content-type:text/html;charset=utf-8');
 define('DB_HOST','localhost');
 define('DB_USER','root');
-define('DB_PASSWORD','199910mm');
+define('DB_PASSWORD','数据库密码');
 define('DB_DATABASE','bbs');
 define('DB_PORT',3306);
 //项目（程序），在服务器上的绝对路径
